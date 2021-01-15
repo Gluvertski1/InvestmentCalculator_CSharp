@@ -1,0 +1,9 @@
+c:\users\jared\documents\visual studio 2013\Projects\Investment Calculator\Investment Calculator\bin\Debug\Investment Calculator.exe.config
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Investment Calculator\Investment Calculator\bin\Debug\Investment Calculator.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Investment Calculator\Investment Calculator\bin\Debug\Investment Calculator.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Investment Calculator\Investment Calculator\obj\Debug\Investment_Calculator.Form1.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Investment Calculator\Investment Calculator\obj\Debug\Investment_Calculator.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Investment Calculator\Investment Calculator\obj\Debug\Investment Calculator.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Investment Calculator\Investment Calculator\obj\Debug\Investment Calculator.exe
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Investment Calculator\Investment Calculator\obj\Debug\Investment Calculator.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\Investment Calculator\Investment Calculator\obj\Debug\Investment Calculator.csprojResolveAssemblyReference.cache
